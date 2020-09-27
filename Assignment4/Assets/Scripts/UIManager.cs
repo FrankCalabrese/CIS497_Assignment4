@@ -1,4 +1,10 @@
-﻿using System.Collections;
+﻿/*Frank Calabrese
+ * Assignment 4 
+ * Displays score and end states
+ * restarts game if player wants
+ */
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;

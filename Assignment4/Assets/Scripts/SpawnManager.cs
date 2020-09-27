@@ -1,4 +1,9 @@
-﻿using System.Collections;
+﻿/*Frank Calabrese   
+ * Assignment 4
+ * Continously spawns obstacles
+ */
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 

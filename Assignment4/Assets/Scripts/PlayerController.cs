@@ -1,4 +1,10 @@
-﻿using System.Collections;
+﻿/*Frank Calabrese
+ * Assignment 4
+ * allows player to jump
+ * also controls animations, sound and SFX relevant to player
+ */
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 

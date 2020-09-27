@@ -1,4 +1,9 @@
-﻿using System.Collections;
+﻿/*Frank Calabrese
+ * Assignment 4
+ * continously repeats background image
+ */
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 

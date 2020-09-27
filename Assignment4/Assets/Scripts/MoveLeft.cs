@@ -1,4 +1,10 @@
-﻿using System.Collections;
+﻿/*Frank Calabrese
+ * Assignment 4
+ * moves object left,
+ * if obstacle destroy when off screen
+ */
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 

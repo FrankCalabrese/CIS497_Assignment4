@@ -1,4 +1,9 @@
-﻿using System.Collections;
+﻿/*Frank Calabrese
+ * Assignment 4
+ * increments score if collides with player
+ */
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
